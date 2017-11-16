@@ -13,8 +13,10 @@ console.log(totYear)
   chart.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate( "+ 0 +"," + (height-margin.bottom) + ")")
-      .call(d3.axisBottom(x));
-
+      .call(d3.axisBottom(x))
+    .selectAll(".tick text")
+      .call(wrap, x.bandwidth());
+      
   chart.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate( "+0 +"," + 0+ ")")
