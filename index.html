@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<link  rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body id="page">
+<div class="heading1">Diffusion of selected ICT tools and activities in enterprises</div>
+<div class="heading2">As a percentage of enterprises with ten or more persons employed</div>
+<div id="controlBoard">
+	<select class="selFilter" id="countryFilter" onchange="chartDrawing(this.value)"></select>
+</div><br/>
+
+<div id="chart"></div>
+
+<div class="siteFooterBar">
+    <a href="http://www.oecd.org" target="_blank"><img  src="img/SYMBOL_20cm.png" ></img></a>
+    <!--<div >2017 © OECD</div>-->
+</div>
+<div id="tooltip" class="hidden">
+	<b><span id="countryName"></span></b><span> - </span><span id="catSelected"></span>
+	<br/><span id="valueSel"></span><span id="yearSel"></span>
+	<br/><span id="lineChart"></span>
+</div>
+
+<script src="libs/d3.v4.min.js"></script>
+<script src="js/chart.js"></script>
+<script src="js/chartTooltip.js"></script>
+<script src="js/setUp.js"></script>
+<script src="js/unique.js"></script>
+
+<script type="text/javascript">
+	
+
+	var screenSide=document.getElementById('chart').offsetWidth
+    var margin = {top: 2/100*screenSide, right: 3/100*screenSide, bottom: 10/100*screenSide, left: 10/100*screenSide};
+    var gap=2/100*screenSide;
+
+	var width=screenSide - margin.left - margin.right;
+	var height=screenSide/3;
+	
+  	var chartSVG = d3.select("#chart").append("svg")
+					    .attr("width", screenSide )
+					    .attr("height", height)
+
+    var chart = chartSVG.append("g")
+					    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+	var y = d3.scaleLinear().range([height-margin.bottom,margin.top]);
+	var x = d3.scaleBand()
+	    .rangeRound([margin.left ,width-margin.right])
+	    .paddingInner(0.05)
+	    .align(0.1);
+
+
+  	var lineSVG = d3.select("#lineChart").append("svg")
+					    .attr("width", screenSide/4 )
+					    .attr("height", height/3)
+
+    var lineChart = lineSVG.append("g")
+    					.attr("class","lineChart")
+					    .attr("transform", "translate(" + margin.right + "," + (2*margin.top )+ ")");
+
+
+	var yLine = d3.scaleLinear()
+		.range([height/4-margin.top,margin.top]);
+
+	var xLine = d3.scaleBand()
+	    .rangeRound([screenSide/4-margin.right,margin.right ])
+	    .paddingInner(0.05)
+	    .align(0.1);
+
+
+
+		var totData=[];
+		var totYear=[];
+		var countryList=[];
+		var counter=0; // define counter to launch function at the end of the forEach
+		var counterYear=0;
+
+		d3.tsv("data/country.tsv",function(error, data) {
+			data.forEach(function(d){
+					countryList.push(d)
+			})
+					
+		});
+
+
+
+		d3.tsv("data/dataYearLong.tsv",function(error, data) {
+			data.forEach(function(d){
+					totYear.push(d)
+	         		/**if (counterYear === data.length) {
+	             		setUp();
+	         		}**/
+			})
+					
+		});
+		d3.tsv("data/dataValueLong.tsv",function(error, data) {
+			data.forEach(function(d){
+					totData.push(d)
+					counter++; 
+	         		if (counter === data.length) {
+	             		setUp();
+	         		}
+			})
+					
+		});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51983915-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<body>

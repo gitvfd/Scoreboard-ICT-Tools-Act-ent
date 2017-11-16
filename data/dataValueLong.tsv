@@ -1,0 +1,517 @@
+"ISO"	"Country"	"Period"	"variable"	"value"
+"AUS"	"Australia"	1	"Broadband"	97
+"AUT"	"Austria"	1	"Broadband"	98.3
+"BEL"	"Belgium"	1	"Broadband"	97.4
+"CAN"	"Canada"	1	"Broadband"	98.1
+"CZE"	"Czech Republic"	1	"Broadband"	97.6
+"DNK"	"Denmark"	1	"Broadband"	99.4
+"EST"	"Estonia"	1	"Broadband"	94.7
+"FIN"	"Finland"	1	"Broadband"	100
+"FRA"	"France"	1	"Broadband"	95.5
+"DEU"	"Germany"	1	"Broadband"	94.8
+"GRC"	"Greece"	1	"Broadband"	84.6
+"HUN"	"Hungary"	1	"Broadband"	92.3
+"ISL"	"Iceland"	1	"Broadband"	94.3
+"IRL"	"Ireland"	1	"Broadband"	97.5
+"ITA"	"Italy"	1	"Broadband"	94.2
+"JPN"	"Japan"	1	"Broadband"	94.5
+"KOR"	"Korea"	1	"Broadband"	99.3
+"LVA"	"Latvia"	1	"Broadband"	96.9
+"LUX"	"Luxembourg"	1	"Broadband"	97.4
+"MEX"	"Mexico"	1	"Broadband"	79.9
+"NLD"	"Netherlands"	1	"Broadband"	100
+"NZL"	"New Zealand"	1	"Broadband"	95.4
+"NOR"	"Norway"	1	"Broadband"	93.4
+"POL"	"Poland"	1	"Broadband"	93.2
+"PRT"	"Portugal"	1	"Broadband"	96.3
+"SVK"	"Slovak Republic"	1	"Broadband"	92.1
+"SVN"	"Slovenia"	1	"Broadband"	99.2
+"ESP"	"Spain"	1	"Broadband"	97.4
+"SWE"	"Sweden"	1	"Broadband"	97.5
+"CHE"	"Switzerland"	1	"Broadband"	96.3
+"TUR"	"Turkey"	1	"Broadband"	92.6
+"GBR"	"United Kingdom"	1	"Broadband"	94.3
+"BRA"	"Brazil"	1	"Broadband"	97.5
+"COL"	"Colombia"	1	"Broadband"	97.1
+"LTU"	"Lithuania"	1	"Broadband"	100
+"AUS"	"Australia"	0	"Broadband"	94.4
+"AUT"	"Austria"	0	"Broadband"	81.7
+"BEL"	"Belgium"	0	"Broadband"	90.4
+"CAN"	"Canada"	0	"Broadband"	94.9
+"CZE"	"Czech Republic"	0	"Broadband"	86.5
+"DNK"	"Denmark"	0	"Broadband"	86.6
+"EST"	"Estonia"	0	"Broadband"	88
+"FIN"	"Finland"	0	"Broadband"	95.8
+"FRA"	"France"	0	"Broadband"	93.3
+"DEU"	"Germany"	0	"Broadband"	89.3
+"GRC"	"Greece"	0	"Broadband"	80.6
+"HUN"	"Hungary"	0	"Broadband"	79.4
+"ISL"	"Iceland"	0	"Broadband"	95.3
+"IRL"	"Ireland"	0	"Broadband"	86.7
+"ITA"	"Italy"	0	"Broadband"	84
+"JPN"	"Japan"	0	"Broadband"	79.7
+"KOR"	"Korea"	0	"Broadband"	98.4
+"LVA"	"Latvia"	0	"Broadband"	68.2
+"LUX"	"Luxembourg"	0	"Broadband"	87.4
+"MEX"	"Mexico"	0	"Broadband"	79.9
+"NLD"	"Netherlands"	0	"Broadband"	90.9
+"NZL"	"New Zealand"	0	"Broadband"	93.5
+"NOR"	"Norway"	0	"Broadband"	86.8
+"POL"	"Poland"	0	"Broadband"	69
+"PRT"	"Portugal"	0	"Broadband"	84.7
+"SVK"	"Slovak Republic"	0	"Broadband"	78.2
+"SVN"	"Slovenia"	0	"Broadband"	87.8
+"ESP"	"Spain"	0	"Broadband"	95.4
+"SWE"	"Sweden"	0	"Broadband"	91.3
+"CHE"	"Switzerland"	0	"Broadband"	98.1
+"TUR"	"Turkey"	0	"Broadband"	88.8
+"GBR"	"United Kingdom"	0	"Broadband"	88
+"BRA"	"Brazil"	0	"Broadband"	91.1
+"COL"	"Colombia"	0	"Broadband"	91.5
+"LTU"	"Lithuania"	0	"Broadband"	81
+"AUS"	"Australia"	1	"Epurchases"	68.4
+"AUT"	"Austria"	1	"Epurchases"	66
+"BEL"	"Belgium"	1	"Epurchases"	39.9
+"CAN"	"Canada"	1	"Epurchases"	67.7
+"CZE"	"Czech Republic"	1	"Epurchases"	62.4
+"DNK"	"Denmark"	1	"Epurchases"	71.9
+"EST"	"Estonia"	1	"Epurchases"	24.6
+"FIN"	"Finland"	1	"Epurchases"	50.5
+"FRA"	"France"	1	"Epurchases"	55
+"DEU"	"Germany"	1	"Epurchases"	54.1
+"GRC"	"Greece"	1	"Epurchases"	14.5
+"HUN"	"Hungary"	1	"Epurchases"	36.7
+"ISL"	"Iceland"	1	"Epurchases"	71.8
+"IRL"	"Ireland"	1	"Epurchases"	45.8
+"ITA"	"Italy"	1	"Epurchases"	40.9
+"JPN"	"Japan"	1	"Epurchases"	34.7
+"KOR"	"Korea"	1	"Epurchases"	34.4
+"LVA"	"Latvia"	1	"Epurchases"	41.1
+"LUX"	"Luxembourg"	1	"Epurchases"	42.2
+"MEX"	"Mexico"	1	"Epurchases"	14.2
+"NLD"	"Netherlands"	1	"Epurchases"	52.2
+"NZL"	"New Zealand"	1	"Epurchases"	85.5
+"NOR"	"Norway"	1	"Epurchases"	44.4
+"POL"	"Poland"	1	"Epurchases"	34.8
+"PRT"	"Portugal"	1	"Epurchases"	27.3
+"SVK"	"Slovak Republic"	1	"Epurchases"	24.8
+"SVN"	"Slovenia"	1	"Epurchases"	28.9
+"ESP"	"Spain"	1	"Epurchases"	31.6
+"SWE"	"Sweden"	1	"Epurchases"	36.9
+"CHE"	"Switzerland"	1	"Epurchases"	56.6
+"GBR"	"United Kingdom"	1	"Epurchases"	54.2
+"BRA"	"Brazil"	1	"Epurchases"	62.1
+"COL"	"Colombia"	1	"Epurchases"	36.9
+"LTU"	"Lithuania"	1	"Epurchases"	26
+"AUS"	"Australia"	0	"Epurchases"	60.8
+"AUT"	"Austria"	0	"Epurchases"	51.3
+"BEL"	"Belgium"	0	"Epurchases"	51.9
+"CAN"	"Canada"	0	"Epurchases"	68.7
+"CZE"	"Czech Republic"	0	"Epurchases"	36.2
+"DNK"	"Denmark"	0	"Epurchases"	70.2
+"EST"	"Estonia"	0	"Epurchases"	23.3
+"FIN"	"Finland"	0	"Epurchases"	42.5
+"FRA"	"France"	0	"Epurchases"	26.4
+"DEU"	"Germany"	0	"Epurchases"	57.8
+"GRC"	"Greece"	0	"Epurchases"	12.9
+"HUN"	"Hungary"	0	"Epurchases"	30.1
+"ISL"	"Iceland"	0	"Epurchases"	73.3
+"IRL"	"Ireland"	0	"Epurchases"	43.7
+"ITA"	"Italy"	0	"Epurchases"	35.9
+"JPN"	"Japan"	0	"Epurchases"	28
+"KOR"	"Korea"	0	"Epurchases"	48.3
+"LVA"	"Latvia"	0	"Epurchases"	17.2
+"LUX"	"Luxembourg"	0	"Epurchases"	50
+"MEX"	"Mexico"	0	"Epurchases"	14.2
+"NLD"	"Netherlands"	0	"Epurchases"	42.9
+"NZL"	"New Zealand"	0	"Epurchases"	74
+"NOR"	"Norway"	0	"Epurchases"	66.3
+"POL"	"Poland"	0	"Epurchases"	16.7
+"PRT"	"Portugal"	0	"Epurchases"	27.5
+"SVK"	"Slovak Republic"	0	"Epurchases"	19.8
+"SVN"	"Slovenia"	0	"Epurchases"	24.8
+"ESP"	"Spain"	0	"Epurchases"	23.7
+"SWE"	"Sweden"	0	"Epurchases"	69.2
+"CHE"	"Switzerland"	0	"Epurchases"	73
+"TUR"	"Turkey"	0	"Epurchases"	15
+"GBR"	"United Kingdom"	0	"Epurchases"	51.6
+"BRA"	"Brazil"	0	"Epurchases"	55
+"COL"	"Colombia"	0	"Epurchases"	29.9
+"LTU"	"Lithuania"	0	"Epurchases"	28.7
+"AUT"	"Austria"	1	"ERP"	41.1
+"BEL"	"Belgium"	1	"ERP"	50
+"CAN"	"Canada"	1	"ERP"	21
+"CZE"	"Czech Republic"	1	"ERP"	30.2
+"DNK"	"Denmark"	1	"ERP"	46.5
+"EST"	"Estonia"	1	"ERP"	22.3
+"FIN"	"Finland"	1	"ERP"	36.5
+"FRA"	"France"	1	"ERP"	39.3
+"DEU"	"Germany"	1	"ERP"	56.5
+"GRC"	"Greece"	1	"ERP"	36.5
+"HUN"	"Hungary"	1	"ERP"	16
+"ISL"	"Iceland"	1	"ERP"	11.2
+"IRL"	"Ireland"	1	"ERP"	25.1
+"ITA"	"Italy"	1	"ERP"	35.9
+"KOR"	"Korea"	1	"ERP"	35.9
+"LVA"	"Latvia"	1	"ERP"	15.9
+"LUX"	"Luxembourg"	1	"ERP"	38.7
+"NLD"	"Netherlands"	1	"ERP"	44.8
+"NOR"	"Norway"	1	"ERP"	31.8
+"POL"	"Poland"	1	"ERP"	20.9
+"PRT"	"Portugal"	1	"ERP"	43.8
+"SVK"	"Slovak Republic"	1	"ERP"	30.4
+"SVN"	"Slovenia"	1	"ERP"	32.9
+"ESP"	"Spain"	1	"ERP"	35.2
+"SWE"	"Sweden"	1	"ERP"	42.8
+"CHE"	"Switzerland"	1	"ERP"	27.1
+"TUR"	"Turkey"	1	"ERP"	20.1
+"GBR"	"United Kingdom"	1	"ERP"	16.7
+"BRA"	"Brazil"	1	"ERP"	27.2
+"LTU"	"Lithuania"	1	"ERP"	40.1
+"AUT"	"Austria"	0	"ERP"	24.9
+"BEL"	"Belgium"	0	"ERP"	40.1
+"CAN"	"Canada"	0	"ERP"	16.8
+"CZE"	"Czech Republic"	0	"ERP"	20.6
+"DNK"	"Denmark"	0	"ERP"	28.7
+"EST"	"Estonia"	0	"ERP"	7.5
+"FIN"	"Finland"	0	"ERP"	27.7
+"FRA"	"France"	0	"ERP"	24.1
+"DEU"	"Germany"	0	"ERP"	28.6
+"GRC"	"Greece"	0	"ERP"	35.9
+"HUN"	"Hungary"	0	"ERP"	8.2
+"ISL"	"Iceland"	0	"ERP"	10.4
+"IRL"	"Ireland"	0	"ERP"	19.5
+"ITA"	"Italy"	0	"ERP"	21.9
+"KOR"	"Korea"	0	"ERP"	31.5
+"LVA"	"Latvia"	0	"ERP"	8.3
+"LUX"	"Luxembourg"	0	"ERP"	21.2
+"NLD"	"Netherlands"	0	"ERP"	21.8
+"NOR"	"Norway"	0	"ERP"	19.1
+"POL"	"Poland"	0	"ERP"	11.3
+"PRT"	"Portugal"	0	"ERP"	26
+"SVK"	"Slovak Republic"	0	"ERP"	17.3
+"SVN"	"Slovenia"	0	"ERP"	20.9
+"ESP"	"Spain"	0	"ERP"	21.9
+"SWE"	"Sweden"	0	"ERP"	35.5
+"CHE"	"Switzerland"	0	"ERP"	38
+"TUR"	"Turkey"	0	"ERP"	15.3
+"GBR"	"United Kingdom"	0	"ERP"	6
+"LTU"	"Lithuania"	0	"ERP"	11.4
+"AUT"	"Austria"	1	"CRM"	43.6
+"BEL"	"Belgium"	1	"CRM"	39.8
+"CAN"	"Canada"	1	"CRM"	31
+"CZE"	"Czech Republic"	1	"CRM"	20.5
+"DNK"	"Denmark"	1	"CRM"	33.7
+"EST"	"Estonia"	1	"CRM"	26.9
+"FIN"	"Finland"	1	"CRM"	39.1
+"FRA"	"France"	1	"CRM"	31.6
+"DEU"	"Germany"	1	"CRM"	45.2
+"GRC"	"Greece"	1	"CRM"	21.6
+"HUN"	"Hungary"	1	"CRM"	15
+"ISL"	"Iceland"	1	"CRM"	18.5
+"IRL"	"Ireland"	1	"CRM"	32.9
+"ITA"	"Italy"	1	"CRM"	30.2
+"KOR"	"Korea"	1	"CRM"	15.4
+"LVA"	"Latvia"	1	"CRM"	17.9
+"LUX"	"Luxembourg"	1	"CRM"	36.2
+"NLD"	"Netherlands"	1	"CRM"	47.3
+"NOR"	"Norway"	1	"CRM"	37
+"POL"	"Poland"	1	"CRM"	24.4
+"PRT"	"Portugal"	1	"CRM"	29.4
+"SVK"	"Slovak Republic"	1	"CRM"	22
+"SVN"	"Slovenia"	1	"CRM"	28.6
+"ESP"	"Spain"	1	"CRM"	34.7
+"SWE"	"Sweden"	1	"CRM"	35.3
+"CHE"	"Switzerland"	1	"CRM"	27
+"TUR"	"Turkey"	1	"CRM"	8.5
+"GBR"	"United Kingdom"	1	"CRM"	30
+"BRA"	"Brazil"	1	"CRM"	20
+"LTU"	"Lithuania"	1	"CRM"	34.4
+"AUT"	"Austria"	0	"CRM"	42.4
+"BEL"	"Belgium"	0	"CRM"	44.1
+"CAN"	"Canada"	0	"CRM"	26.2
+"CZE"	"Czech Republic"	0	"CRM"	15.2
+"DNK"	"Denmark"	0	"CRM"	25.8
+"EST"	"Estonia"	0	"CRM"	11.4
+"FIN"	"Finland"	0	"CRM"	36.1
+"FRA"	"France"	0	"CRM"	21.6
+"DEU"	"Germany"	0	"CRM"	42.9
+"GRC"	"Greece"	0	"CRM"	20.8
+"HUN"	"Hungary"	0	"CRM"	9.8
+"ISL"	"Iceland"	0	"CRM"	22.1
+"IRL"	"Ireland"	0	"CRM"	29.7
+"ITA"	"Italy"	0	"CRM"	23.4
+"KOR"	"Korea"	0	"CRM"	20.5
+"LVA"	"Latvia"	0	"CRM"	14.2
+"LUX"	"Luxembourg"	0	"CRM"	28.4
+"NLD"	"Netherlands"	0	"CRM"	21.9
+"NOR"	"Norway"	0	"CRM"	35.8
+"POL"	"Poland"	0	"CRM"	17.6
+"PRT"	"Portugal"	0	"CRM"	20.4
+"SVK"	"Slovak Republic"	0	"CRM"	29.7
+"SVN"	"Slovenia"	0	"CRM"	15.8
+"ESP"	"Spain"	0	"CRM"	27.9
+"SWE"	"Sweden"	0	"CRM"	37.5
+"CHE"	"Switzerland"	0	"CRM"	30.4
+"TUR"	"Turkey"	0	"CRM"	32.6
+"GBR"	"United Kingdom"	0	"CRM"	15.1
+"LTU"	"Lithuania"	0	"CRM"	14.9
+"AUS"	"Australia"	1	"CloudComputing"	28.2
+"AUT"	"Austria"	1	"CloudComputing"	17
+"BEL"	"Belgium"	1	"CloudComputing"	28.5
+"CAN"	"Canada"	1	"CloudComputing"	30.5
+"CZE"	"Czech Republic"	1	"CloudComputing"	18
+"DNK"	"Denmark"	1	"CloudComputing"	41.6
+"EST"	"Estonia"	1	"CloudComputing"	22.8
+"FIN"	"Finland"	1	"CloudComputing"	56.9
+"FRA"	"France"	1	"CloudComputing"	17.1
+"DEU"	"Germany"	1	"CloudComputing"	16.3
+"GRC"	"Greece"	1	"CloudComputing"	9.2
+"HUN"	"Hungary"	1	"CloudComputing"	12.2
+"ISL"	"Iceland"	1	"CloudComputing"	43.1
+"IRL"	"Ireland"	1	"CloudComputing"	36.1
+"ITA"	"Italy"	1	"CloudComputing"	21.5
+"JPN"	"Japan"	1	"CloudComputing"	44.6
+"KOR"	"Korea"	1	"CloudComputing"	12.9
+"LVA"	"Latvia"	1	"CloudComputing"	8.4
+"LUX"	"Luxembourg"	1	"CloudComputing"	18.8
+"MEX"	"Mexico"	1	"CloudComputing"	9.1
+"NLD"	"Netherlands"	1	"CloudComputing"	34.5
+"NOR"	"Norway"	1	"CloudComputing"	39.7
+"POL"	"Poland"	1	"CloudComputing"	8.2
+"PRT"	"Portugal"	1	"CloudComputing"	17.9
+"SVK"	"Slovak Republic"	1	"CloudComputing"	17.9
+"SVN"	"Slovenia"	1	"CloudComputing"	22.2
+"ESP"	"Spain"	1	"CloudComputing"	18.3
+"SWE"	"Sweden"	1	"CloudComputing"	48.2
+"CHE"	"Switzerland"	1	"CloudComputing"	23.4
+"TUR"	"Turkey"	1	"CloudComputing"	10.3
+"GBR"	"United Kingdom"	1	"CloudComputing"	34.7
+"BRA"	"Brazil"	1	"CloudComputing"	44.6
+"LTU"	"Lithuania"	1	"CloudComputing"	16.6
+"AUT"	"Austria"	0	"CloudComputing"	11.7
+"BEL"	"Belgium"	0	"CloudComputing"	21.2
+"CAN"	"Canada"	0	"CloudComputing"	30.5
+"CZE"	"Czech Republic"	0	"CloudComputing"	15.1
+"DNK"	"Denmark"	0	"CloudComputing"	37.7
+"EST"	"Estonia"	0	"CloudComputing"	14.9
+"FIN"	"Finland"	0	"CloudComputing"	50.8
+"FRA"	"France"	0	"CloudComputing"	11.9
+"DEU"	"Germany"	0	"CloudComputing"	11.3
+"GRC"	"Greece"	0	"CloudComputing"	7.6
+"HUN"	"Hungary"	0	"CloudComputing"	8.1
+"ISL"	"Iceland"	0	"CloudComputing"	43.1
+"IRL"	"Ireland"	0	"CloudComputing"	27.6
+"ITA"	"Italy"	0	"CloudComputing"	40.1
+"JPN"	"Japan"	0	"CloudComputing"	14.1
+"KOR"	"Korea"	0	"CloudComputing"	10.4
+"LVA"	"Latvia"	0	"CloudComputing"	5.7
+"LUX"	"Luxembourg"	0	"CloudComputing"	12.5
+"MEX"	"Mexico"	0	"CloudComputing"	9.1
+"NLD"	"Netherlands"	0	"CloudComputing"	27.7
+"NOR"	"Norway"	0	"CloudComputing"	29.3
+"POL"	"Poland"	0	"CloudComputing"	5.8
+"PRT"	"Portugal"	0	"CloudComputing"	12.6
+"SVK"	"Slovak Republic"	0	"CloudComputing"	19.3
+"SVN"	"Slovenia"	0	"CloudComputing"	15.4
+"ESP"	"Spain"	0	"CloudComputing"	14
+"SWE"	"Sweden"	0	"CloudComputing"	39.4
+"CHE"	"Switzerland"	0	"CloudComputing"	6.3
+"GBR"	"United Kingdom"	0	"CloudComputing"	24
+"LTU"	"Lithuania"	0	"CloudComputing"	13.5
+"AUS"	"Australia"	1	"Esales"	43.6
+"AUT"	"Austria"	1	"Esales"	19.4
+"BEL"	"Belgium"	1	"Esales"	25.6
+"CAN"	"Canada"	1	"Esales"	18.5
+"CZE"	"Czech Republic"	1	"Esales"	26.6
+"DNK"	"Denmark"	1	"Esales"	29
+"EST"	"Estonia"	1	"Esales"	18.3
+"FIN"	"Finland"	1	"Esales"	21.8
+"FRA"	"France"	1	"Esales"	21
+"DEU"	"Germany"	1	"Esales"	28.5
+"GRC"	"Greece"	1	"Esales"	12.2
+"HUN"	"Hungary"	1	"Esales"	15.1
+"ISL"	"Iceland"	1	"Esales"	33.9
+"IRL"	"Ireland"	1	"Esales"	30.3
+"ITA"	"Italy"	1	"Esales"	11
+"JPN"	"Japan"	1	"Esales"	23.5
+"KOR"	"Korea"	1	"Esales"	8.7
+"LVA"	"Latvia"	1	"Esales"	10.2
+"LUX"	"Luxembourg"	1	"Esales"	14.8
+"NLD"	"Netherlands"	1	"Esales"	25.3
+"NZL"	"New Zealand"	1	"Esales"	50.4
+"NOR"	"Norway"	1	"Esales"	27.7
+"POL"	"Poland"	1	"Esales"	12.4
+"PRT"	"Portugal"	1	"Esales"	18.8
+"SVK"	"Slovak Republic"	1	"Esales"	15.3
+"SVN"	"Slovenia"	1	"Esales"	20.3
+"ESP"	"Spain"	1	"Esales"	20.6
+"SWE"	"Sweden"	1	"Esales"	28.2
+"TUR"	"Turkey"	1	"Esales"	11.9
+"GBR"	"United Kingdom"	1	"Esales"	21.5
+"BRA"	"Brazil"	1	"Esales"	20.4
+"COL"	"Colombia"	1	"Esales"	26.8
+"LTU"	"Lithuania"	1	"Esales"	19.6
+"AUS"	"Australia"	0	"Esales"	32.3
+"AUT"	"Austria"	0	"Esales"	17.8
+"BEL"	"Belgium"	0	"Esales"	29.2
+"CAN"	"Canada"	0	"Esales"	19.9
+"CZE"	"Czech Republic"	0	"Esales"	20.6
+"DNK"	"Denmark"	0	"Esales"	29.3
+"EST"	"Estonia"	0	"Esales"	10.8
+"FIN"	"Finland"	0	"Esales"	18.9
+"FRA"	"France"	0	"Esales"	14.2
+"DEU"	"Germany"	0	"Esales"	23.9
+"GRC"	"Greece"	0	"Esales"	9.2
+"HUN"	"Hungary"	0	"Esales"	9
+"ISL"	"Iceland"	0	"Esales"	20.4
+"IRL"	"Ireland"	0	"Esales"	21
+"ITA"	"Italy"	0	"Esales"	5
+"JPN"	"Japan"	0	"Esales"	21.4
+"KOR"	"Korea"	0	"Esales"	9.3
+"LVA"	"Latvia"	0	"Esales"	7
+"LUX"	"Luxembourg"	0	"Esales"	14.8
+"NLD"	"Netherlands"	0	"Esales"	23.6
+"NZL"	"New Zealand"	0	"Esales"	51.9
+"NOR"	"Norway"	0	"Esales"	37.8
+"POL"	"Poland"	0	"Esales"	8.7
+"PRT"	"Portugal"	0	"Esales"	19.4
+"SVK"	"Slovak Republic"	0	"Esales"	7.9
+"SVN"	"Slovenia"	0	"Esales"	12.4
+"ESP"	"Spain"	0	"Esales"	13
+"SWE"	"Sweden"	0	"Esales"	25.1
+"CHE"	"Switzerland"	0	"Esales"	34.5
+"TUR"	"Turkey"	0	"Esales"	8.4
+"GBR"	"United Kingdom"	0	"Esales"	17.1
+"BRA"	"Brazil"	0	"Esales"	35.8
+"COL"	"Colombia"	0	"Esales"	23.7
+"LTU"	"Lithuania"	0	"Esales"	21.9
+"AUT"	"Austria"	1	"SupplyChainMgmt"	15.4
+"BEL"	"Belgium"	1	"SupplyChainMgmt"	24.3
+"CZE"	"Czech Republic"	1	"SupplyChainMgmt"	20.6
+"DNK"	"Denmark"	1	"SupplyChainMgmt"	29.9
+"EST"	"Estonia"	1	"SupplyChainMgmt"	15.5
+"FIN"	"Finland"	1	"SupplyChainMgmt"	22.2
+"FRA"	"France"	1	"SupplyChainMgmt"	13.2
+"DEU"	"Germany"	1	"SupplyChainMgmt"	25.3
+"GRC"	"Greece"	1	"SupplyChainMgmt"	15.2
+"HUN"	"Hungary"	1	"SupplyChainMgmt"	9.4
+"ISL"	"Iceland"	1	"SupplyChainMgmt"	16.4
+"IRL"	"Ireland"	1	"SupplyChainMgmt"	14.5
+"ITA"	"Italy"	1	"SupplyChainMgmt"	12.5
+"LVA"	"Latvia"	1	"SupplyChainMgmt"	7.9
+"LUX"	"Luxembourg"	1	"SupplyChainMgmt"	17.5
+"NLD"	"Netherlands"	1	"SupplyChainMgmt"	21.4
+"NOR"	"Norway"	1	"SupplyChainMgmt"	19.8
+"POL"	"Poland"	1	"SupplyChainMgmt"	17.4
+"PRT"	"Portugal"	1	"SupplyChainMgmt"	17.1
+"SVK"	"Slovak Republic"	1	"SupplyChainMgmt"	20.8
+"SVN"	"Slovenia"	1	"SupplyChainMgmt"	14
+"ESP"	"Spain"	1	"SupplyChainMgmt"	16.9
+"SWE"	"Sweden"	1	"SupplyChainMgmt"	12.5
+"CHE"	"Switzerland"	1	"SupplyChainMgmt"	5.5
+"GBR"	"United Kingdom"	1	"SupplyChainMgmt"	12
+"LTU"	"Lithuania"	1	"SupplyChainMgmt"	23.7
+"AUT"	"Austria"	0	"SupplyChainMgmt"	14
+"BEL"	"Belgium"	0	"SupplyChainMgmt"	34
+"CZE"	"Czech Republic"	0	"SupplyChainMgmt"	14.7
+"DNK"	"Denmark"	0	"SupplyChainMgmt"	17.2
+"EST"	"Estonia"	0	"SupplyChainMgmt"	11.4
+"FIN"	"Finland"	0	"SupplyChainMgmt"	20.5
+"FRA"	"France"	0	"SupplyChainMgmt"	12.6
+"DEU"	"Germany"	0	"SupplyChainMgmt"	25.7
+"GRC"	"Greece"	0	"SupplyChainMgmt"	20.6
+"HUN"	"Hungary"	0	"SupplyChainMgmt"	11.2
+"ISL"	"Iceland"	0	"SupplyChainMgmt"	7.2
+"IRL"	"Ireland"	0	"SupplyChainMgmt"	13.2
+"ITA"	"Italy"	0	"SupplyChainMgmt"	21.8
+"LVA"	"Latvia"	0	"SupplyChainMgmt"	34
+"LUX"	"Luxembourg"	0	"SupplyChainMgmt"	27
+"NLD"	"Netherlands"	0	"SupplyChainMgmt"	4.9
+"NOR"	"Norway"	0	"SupplyChainMgmt"	25.2
+"POL"	"Poland"	0	"SupplyChainMgmt"	17.1
+"PRT"	"Portugal"	0	"SupplyChainMgmt"	40.2
+"SVK"	"Slovak Republic"	0	"SupplyChainMgmt"	26.8
+"SVN"	"Slovenia"	0	"SupplyChainMgmt"	18.7
+"ESP"	"Spain"	0	"SupplyChainMgmt"	17.3
+"SWE"	"Sweden"	0	"SupplyChainMgmt"	26.9
+"TUR"	"Turkey"	0	"SupplyChainMgmt"	16.1
+"GBR"	"United Kingdom"	0	"SupplyChainMgmt"	6.7
+"LTU"	"Lithuania"	0	"SupplyChainMgmt"	33.5
+"BEL"	"Belgium"	1	"BigData"	17
+"CZE"	"Czech Republic"	1	"BigData"	8.5
+"DNK"	"Denmark"	1	"BigData"	11.7
+"EST"	"Estonia"	1	"BigData"	12.7
+"FIN"	"Finland"	1	"BigData"	14.8
+"FRA"	"France"	1	"BigData"	11.3
+"DEU"	"Germany"	1	"BigData"	5.7
+"GRC"	"Greece"	1	"BigData"	11.4
+"HUN"	"Hungary"	1	"BigData"	7
+"ITA"	"Italy"	1	"BigData"	9
+"KOR"	"Korea"	1	"BigData"	3.6
+"LUX"	"Luxembourg"	1	"BigData"	12.5
+"NLD"	"Netherlands"	1	"BigData"	19.1
+"POL"	"Poland"	1	"BigData"	5.9
+"PRT"	"Portugal"	1	"BigData"	13.4
+"SVK"	"Slovak Republic"	1	"BigData"	10.8
+"SVN"	"Slovenia"	1	"BigData"	11
+"ESP"	"Spain"	1	"BigData"	8.3
+"SWE"	"Sweden"	1	"BigData"	9.9
+"GBR"	"United Kingdom"	1	"BigData"	15.4
+"LTU"	"Lithuania"	1	"BigData"	12
+"AUT"	"Austria"	1	"RFID"	18.3
+"BEL"	"Belgium"	1	"RFID"	16.5
+"CAN"	"Canada"	1	"RFID"	3
+"CZE"	"Czech Republic"	1	"RFID"	5.8
+"DNK"	"Denmark"	1	"RFID"	10.6
+"EST"	"Estonia"	1	"RFID"	8.5
+"FIN"	"Finland"	1	"RFID"	20.9
+"FRA"	"France"	1	"RFID"	6.6
+"DEU"	"Germany"	1	"RFID"	13.9
+"GRC"	"Greece"	1	"RFID"	4.3
+"HUN"	"Hungary"	1	"RFID"	7.4
+"ISL"	"Iceland"	1	"RFID"	9.1
+"IRL"	"Ireland"	1	"RFID"	6.1
+"ITA"	"Italy"	1	"RFID"	10.5
+"JPN"	"Japan"	1	"RFID"	5.8
+"KOR"	"Korea"	1	"RFID"	41.8
+"LVA"	"Latvia"	1	"RFID"	7.6
+"LUX"	"Luxembourg"	1	"RFID"	15.2
+"NLD"	"Netherlands"	1	"RFID"	12
+"NOR"	"Norway"	1	"RFID"	8.4
+"POL"	"Poland"	1	"RFID"	6.2
+"PRT"	"Portugal"	1	"RFID"	14.5
+"SVK"	"Slovak Republic"	1	"RFID"	11.6
+"SVN"	"Slovenia"	1	"RFID"	13.4
+"ESP"	"Spain"	1	"RFID"	11
+"SWE"	"Sweden"	1	"RFID"	9
+"CHE"	"Switzerland"	1	"RFID"	5.7
+"GBR"	"United Kingdom"	1	"RFID"	5.8
+"LTU"	"Lithuania"	1	"RFID"	10.9
+"AUT"	"Austria"	0	"RFID"	4.2
+"BEL"	"Belgium"	0	"RFID"	3.1
+"CAN"	"Canada"	0	"RFID"	3.2
+"CZE"	"Czech Republic"	0	"RFID"	2.5
+"DNK"	"Denmark"	0	"RFID"	2.2
+"EST"	"Estonia"	0	"RFID"	2.1
+"FIN"	"Finland"	0	"RFID"	8
+"FRA"	"France"	0	"RFID"	2.9
+"DEU"	"Germany"	0	"RFID"	3.6
+"GRC"	"Greece"	0	"RFID"	2.3
+"HUN"	"Hungary"	0	"RFID"	1.7
+"IRL"	"Ireland"	0	"RFID"	2.2
+"ITA"	"Italy"	0	"RFID"	3.2
+"JPN"	"Japan"	0	"RFID"	6.7
+"KOR"	"Korea"	0	"RFID"	22.4
+"LVA"	"Latvia"	0	"RFID"	3.1
+"LUX"	"Luxembourg"	0	"RFID"	2.3
+"NLD"	"Netherlands"	0	"RFID"	9.3
+"NOR"	"Norway"	0	"RFID"	1.4
+"POL"	"Poland"	0	"RFID"	3.3
+"PRT"	"Portugal"	0	"RFID"	2.5
+"SVK"	"Slovak Republic"	0	"RFID"	4.4
+"SVN"	"Slovenia"	0	"RFID"	3.5
+"ESP"	"Spain"	0	"RFID"	4
+"SWE"	"Sweden"	0	"RFID"	1.7
+"GBR"	"United Kingdom"	0	"RFID"	1.7
+"LTU"	"Lithuania"	0	"RFID"	2.6
