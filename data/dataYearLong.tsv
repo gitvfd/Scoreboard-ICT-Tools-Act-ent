@@ -69,76 +69,76 @@
 "BRA"	"Brazil"	0	"Broadband"	2010
 "COL"	"Colombia"	0	"Broadband"	2010
 "LTU"	"Lithuania"	0	"Broadband"	2010
-"AUS"	"Australia"	1	"Epurchases"	2015
-"AUT"	"Austria"	1	"Epurchases"	2015
-"BEL"	"Belgium"	1	"Epurchases"	2015
-"CAN"	"Canada"	1	"Epurchases"	2013
-"CZE"	"Czech Republic"	1	"Epurchases"	2015
-"DNK"	"Denmark"	1	"Epurchases"	2015
-"EST"	"Estonia"	1	"Epurchases"	2015
-"FIN"	"Finland"	1	"Epurchases"	2015
-"FRA"	"France"	1	"Epurchases"	2015
-"DEU"	"Germany"	1	"Epurchases"	2015
-"GRC"	"Greece"	1	"Epurchases"	2015
-"HUN"	"Hungary"	1	"Epurchases"	2015
-"ISL"	"Iceland"	1	"Epurchases"	2014
-"IRL"	"Ireland"	1	"Epurchases"	2015
-"ITA"	"Italy"	1	"Epurchases"	2015
-"JPN"	"Japan"	1	"Epurchases"	2015
-"KOR"	"Korea"	1	"Epurchases"	2015
-"LVA"	"Latvia"	1	"Epurchases"	2015
-"LUX"	"Luxembourg"	1	"Epurchases"	2015
-"MEX"	"Mexico"	1	"Epurchases"	2012
-"NLD"	"Netherlands"	1	"Epurchases"	2015
-"NZL"	"New Zealand"	1	"Epurchases"	2016
-"NOR"	"Norway"	1	"Epurchases"	2016
-"POL"	"Poland"	1	"Epurchases"	2015
-"PRT"	"Portugal"	1	"Epurchases"	2015
-"SVK"	"Slovak Republic"	1	"Epurchases"	2015
-"SVN"	"Slovenia"	1	"Epurchases"	2015
-"ESP"	"Spain"	1	"Epurchases"	2015
-"SWE"	"Sweden"	1	"Epurchases"	2015
-"CHE"	"Switzerland"	1	"Epurchases"	2015
-"TUR"	"Turkey"	1	"Epurchases"	2016
-"GBR"	"United Kingdom"	1	"Epurchases"	2016
-"BRA"	"Brazil"	1	"Epurchases"	2015
-"COL"	"Colombia"	1	"Epurchases"	2015
-"LTU"	"Lithuania"	1	"Epurchases"	2016
-"AUS"	"Australia"	0	"Epurchases"	2015
-"AUT"	"Austria"	0	"Epurchases"	2010
-"BEL"	"Belgium"	0	"Epurchases"	2010
-"CAN"	"Canada"	0	"Epurchases"	2012
-"CZE"	"Czech Republic"	0	"Epurchases"	2010
-"DNK"	"Denmark"	0	"Epurchases"	2010
-"EST"	"Estonia"	0	"Epurchases"	2010
-"FIN"	"Finland"	0	"Epurchases"	2010
-"FRA"	"France"	0	"Epurchases"	2010
-"DEU"	"Germany"	0	"Epurchases"	2010
-"GRC"	"Greece"	0	"Epurchases"	2010
-"HUN"	"Hungary"	0	"Epurchases"	2010
-"ISL"	"Iceland"	0	"Epurchases"	2012
-"IRL"	"Ireland"	0	"Epurchases"	2010
-"ITA"	"Italy"	0	"Epurchases"	2010
-"JPN"	"Japan"	0	"Epurchases"	2010
-"KOR"	"Korea"	0	"Epurchases"	2010
-"LVA"	"Latvia"	0	"Epurchases"	2010
-"LUX"	"Luxembourg"	0	"Epurchases"	2010
-"MEX"	"Mexico"	0	"Epurchases"	2012
-"NLD"	"Netherlands"	0	"Epurchases"	2010
-"NZL"	"New Zealand"	0	"Epurchases"	2010
-"NOR"	"Norway"	0	"Epurchases"	2010
-"POL"	"Poland"	0	"Epurchases"	2010
-"PRT"	"Portugal"	0	"Epurchases"	2010
-"SVK"	"Slovak Republic"	0	"Epurchases"	2010
-"SVN"	"Slovenia"	0	"Epurchases"	2010
-"ESP"	"Spain"	0	"Epurchases"	2010
-"SWE"	"Sweden"	0	"Epurchases"	2010
-"CHE"	"Switzerland"	0	"Epurchases"	2011
-"TUR"	"Turkey"	0	"Epurchases"	2010
-"GBR"	"United Kingdom"	0	"Epurchases"	2010
-"BRA"	"Brazil"	0	"Epurchases"	2010
-"COL"	"Colombia"	0	"Epurchases"	2012
-"LTU"	"Lithuania"	0	"Epurchases"	2010
+"AUS"	"Australia"	1	"E-purchases"	2015
+"AUT"	"Austria"	1	"E-purchases"	2015
+"BEL"	"Belgium"	1	"E-purchases"	2015
+"CAN"	"Canada"	1	"E-purchases"	2013
+"CZE"	"Czech Republic"	1	"E-purchases"	2015
+"DNK"	"Denmark"	1	"E-purchases"	2015
+"EST"	"Estonia"	1	"E-purchases"	2015
+"FIN"	"Finland"	1	"E-purchases"	2015
+"FRA"	"France"	1	"E-purchases"	2015
+"DEU"	"Germany"	1	"E-purchases"	2015
+"GRC"	"Greece"	1	"E-purchases"	2015
+"HUN"	"Hungary"	1	"E-purchases"	2015
+"ISL"	"Iceland"	1	"E-purchases"	2014
+"IRL"	"Ireland"	1	"E-purchases"	2015
+"ITA"	"Italy"	1	"E-purchases"	2015
+"JPN"	"Japan"	1	"E-purchases"	2015
+"KOR"	"Korea"	1	"E-purchases"	2015
+"LVA"	"Latvia"	1	"E-purchases"	2015
+"LUX"	"Luxembourg"	1	"E-purchases"	2015
+"MEX"	"Mexico"	1	"E-purchases"	2012
+"NLD"	"Netherlands"	1	"E-purchases"	2015
+"NZL"	"New Zealand"	1	"E-purchases"	2016
+"NOR"	"Norway"	1	"E-purchases"	2016
+"POL"	"Poland"	1	"E-purchases"	2015
+"PRT"	"Portugal"	1	"E-purchases"	2015
+"SVK"	"Slovak Republic"	1	"E-purchases"	2015
+"SVN"	"Slovenia"	1	"E-purchases"	2015
+"ESP"	"Spain"	1	"E-purchases"	2015
+"SWE"	"Sweden"	1	"E-purchases"	2015
+"CHE"	"Switzerland"	1	"E-purchases"	2015
+"TUR"	"Turkey"	1	"E-purchases"	2016
+"GBR"	"United Kingdom"	1	"E-purchases"	2016
+"BRA"	"Brazil"	1	"E-purchases"	2015
+"COL"	"Colombia"	1	"E-purchases"	2015
+"LTU"	"Lithuania"	1	"E-purchases"	2016
+"AUS"	"Australia"	0	"E-purchases"	2015
+"AUT"	"Austria"	0	"E-purchases"	2010
+"BEL"	"Belgium"	0	"E-purchases"	2010
+"CAN"	"Canada"	0	"E-purchases"	2012
+"CZE"	"Czech Republic"	0	"E-purchases"	2010
+"DNK"	"Denmark"	0	"E-purchases"	2010
+"EST"	"Estonia"	0	"E-purchases"	2010
+"FIN"	"Finland"	0	"E-purchases"	2010
+"FRA"	"France"	0	"E-purchases"	2010
+"DEU"	"Germany"	0	"E-purchases"	2010
+"GRC"	"Greece"	0	"E-purchases"	2010
+"HUN"	"Hungary"	0	"E-purchases"	2010
+"ISL"	"Iceland"	0	"E-purchases"	2012
+"IRL"	"Ireland"	0	"E-purchases"	2010
+"ITA"	"Italy"	0	"E-purchases"	2010
+"JPN"	"Japan"	0	"E-purchases"	2010
+"KOR"	"Korea"	0	"E-purchases"	2010
+"LVA"	"Latvia"	0	"E-purchases"	2010
+"LUX"	"Luxembourg"	0	"E-purchases"	2010
+"MEX"	"Mexico"	0	"E-purchases"	2012
+"NLD"	"Netherlands"	0	"E-purchases"	2010
+"NZL"	"New Zealand"	0	"E-purchases"	2010
+"NOR"	"Norway"	0	"E-purchases"	2010
+"POL"	"Poland"	0	"E-purchases"	2010
+"PRT"	"Portugal"	0	"E-purchases"	2010
+"SVK"	"Slovak Republic"	0	"E-purchases"	2010
+"SVN"	"Slovenia"	0	"E-purchases"	2010
+"ESP"	"Spain"	0	"E-purchases"	2010
+"SWE"	"Sweden"	0	"E-purchases"	2010
+"CHE"	"Switzerland"	0	"E-purchases"	2011
+"TUR"	"Turkey"	0	"E-purchases"	2010
+"GBR"	"United Kingdom"	0	"E-purchases"	2010
+"BRA"	"Brazil"	0	"E-purchases"	2010
+"COL"	"Colombia"	0	"E-purchases"	2012
+"LTU"	"Lithuania"	0	"E-purchases"	2010
 "AUS"	"Australia"	1	"ERP"	2015
 "AUT"	"Austria"	1	"ERP"	2016
 "BEL"	"Belgium"	1	"ERP"	2016
@@ -279,286 +279,286 @@
 "BRA"	"Brazil"	0	"CRM"	2010
 "COL"	"Colombia"	0	"CRM"	2010
 "LTU"	"Lithuania"	0	"CRM"	2010
-"AUS"	"Australia"	1	"CloudComputing"	2015
-"AUT"	"Austria"	1	"CloudComputing"	2016
-"BEL"	"Belgium"	1	"CloudComputing"	2016
-"CAN"	"Canada"	1	"CloudComputing"	2012
-"CZE"	"Czech Republic"	1	"CloudComputing"	2016
-"DNK"	"Denmark"	1	"CloudComputing"	2016
-"EST"	"Estonia"	1	"CloudComputing"	2016
-"FIN"	"Finland"	1	"CloudComputing"	2016
-"FRA"	"France"	1	"CloudComputing"	2016
-"DEU"	"Germany"	1	"CloudComputing"	2016
-"GRC"	"Greece"	1	"CloudComputing"	2016
-"HUN"	"Hungary"	1	"CloudComputing"	2016
-"ISL"	"Iceland"	1	"CloudComputing"	2014
-"IRL"	"Ireland"	1	"CloudComputing"	2016
-"ITA"	"Italy"	1	"CloudComputing"	2016
-"JPN"	"Japan"	1	"CloudComputing"	2015
-"KOR"	"Korea"	1	"CloudComputing"	2015
-"LVA"	"Latvia"	1	"CloudComputing"	2016
-"LUX"	"Luxembourg"	1	"CloudComputing"	2016
-"MEX"	"Mexico"	1	"CloudComputing"	2010
-"NLD"	"Netherlands"	1	"CloudComputing"	2016
-"NZL"	"New Zealand"	1	"CloudComputing"	2016
-"NOR"	"Norway"	1	"CloudComputing"	2016
-"POL"	"Poland"	1	"CloudComputing"	2016
-"PRT"	"Portugal"	1	"CloudComputing"	2016
-"SVK"	"Slovak Republic"	1	"CloudComputing"	2016
-"SVN"	"Slovenia"	1	"CloudComputing"	2016
-"ESP"	"Spain"	1	"CloudComputing"	2016
-"SWE"	"Sweden"	1	"CloudComputing"	2016
-"CHE"	"Switzerland"	1	"CloudComputing"	2015
-"TUR"	"Turkey"	1	"CloudComputing"	2016
-"GBR"	"United Kingdom"	1	"CloudComputing"	2016
-"BRA"	"Brazil"	1	"CloudComputing"	2015
-"COL"	"Colombia"	1	"CloudComputing"	2015
-"LTU"	"Lithuania"	1	"CloudComputing"	2016
-"AUS"	"Australia"	0	"CloudComputing"	2010
-"AUT"	"Austria"	0	"CloudComputing"	2014
-"BEL"	"Belgium"	0	"CloudComputing"	2014
-"CAN"	"Canada"	0	"CloudComputing"	2012
-"CZE"	"Czech Republic"	0	"CloudComputing"	2014
-"DNK"	"Denmark"	0	"CloudComputing"	2014
-"EST"	"Estonia"	0	"CloudComputing"	2014
-"FIN"	"Finland"	0	"CloudComputing"	2014
-"FRA"	"France"	0	"CloudComputing"	2014
-"DEU"	"Germany"	0	"CloudComputing"	2014
-"GRC"	"Greece"	0	"CloudComputing"	2014
-"HUN"	"Hungary"	0	"CloudComputing"	2014
-"ISL"	"Iceland"	0	"CloudComputing"	2014
-"IRL"	"Ireland"	0	"CloudComputing"	2014
-"ITA"	"Italy"	0	"CloudComputing"	2014
-"JPN"	"Japan"	0	"CloudComputing"	2010
-"KOR"	"Korea"	0	"CloudComputing"	2012
-"LVA"	"Latvia"	0	"CloudComputing"	2014
-"LUX"	"Luxembourg"	0	"CloudComputing"	2014
-"MEX"	"Mexico"	0	"CloudComputing"	2012
-"NLD"	"Netherlands"	0	"CloudComputing"	2014
-"NZL"	"New Zealand"	0	"CloudComputing"	2014
-"NOR"	"Norway"	0	"CloudComputing"	2014
-"POL"	"Poland"	0	"CloudComputing"	2014
-"PRT"	"Portugal"	0	"CloudComputing"	2014
-"SVK"	"Slovak Republic"	0	"CloudComputing"	2014
-"SVN"	"Slovenia"	0	"CloudComputing"	2014
-"ESP"	"Spain"	0	"CloudComputing"	2014
-"SWE"	"Sweden"	0	"CloudComputing"	2014
-"CHE"	"Switzerland"	0	"CloudComputing"	2010
-"TUR"	"Turkey"	0	"CloudComputing"	2014
-"GBR"	"United Kingdom"	0	"CloudComputing"	2014
-"BRA"	"Brazil"	0	"CloudComputing"	2014
-"COL"	"Colombia"	0	"CloudComputing"	2014
-"LTU"	"Lithuania"	0	"CloudComputing"	2014
-"AUS"	"Australia"	1	"Esales"	2015
-"AUT"	"Austria"	1	"Esales"	2015
-"BEL"	"Belgium"	1	"Esales"	2015
-"CAN"	"Canada"	1	"Esales"	2013
-"CZE"	"Czech Republic"	1	"Esales"	2015
-"DNK"	"Denmark"	1	"Esales"	2015
-"EST"	"Estonia"	1	"Esales"	2015
-"FIN"	"Finland"	1	"Esales"	2015
-"FRA"	"France"	1	"Esales"	2015
-"DEU"	"Germany"	1	"Esales"	2015
-"GRC"	"Greece"	1	"Esales"	2015
-"HUN"	"Hungary"	1	"Esales"	2015
-"ISL"	"Iceland"	1	"Esales"	2014
-"IRL"	"Ireland"	1	"Esales"	2015
-"ITA"	"Italy"	1	"Esales"	2015
-"JPN"	"Japan"	1	"Esales"	2015
-"KOR"	"Korea"	1	"Esales"	2015
-"LVA"	"Latvia"	1	"Esales"	2015
-"LUX"	"Luxembourg"	1	"Esales"	2015
-"MEX"	"Mexico"	1	"Esales"	2012
-"NLD"	"Netherlands"	1	"Esales"	2015
-"NZL"	"New Zealand"	1	"Esales"	2016
-"NOR"	"Norway"	1	"Esales"	2016
-"POL"	"Poland"	1	"Esales"	2015
-"PRT"	"Portugal"	1	"Esales"	2015
-"SVK"	"Slovak Republic"	1	"Esales"	2015
-"SVN"	"Slovenia"	1	"Esales"	2015
-"ESP"	"Spain"	1	"Esales"	2015
-"SWE"	"Sweden"	1	"Esales"	2015
-"CHE"	"Switzerland"	1	"Esales"	2015
-"TUR"	"Turkey"	1	"Esales"	2016
-"GBR"	"United Kingdom"	1	"Esales"	2016
-"BRA"	"Brazil"	1	"Esales"	2015
-"COL"	"Colombia"	1	"Esales"	2015
-"LTU"	"Lithuania"	1	"Esales"	2016
-"AUS"	"Australia"	0	"Esales"	2015
-"AUT"	"Austria"	0	"Esales"	2010
-"BEL"	"Belgium"	0	"Esales"	2010
-"CAN"	"Canada"	0	"Esales"	2012
-"CZE"	"Czech Republic"	0	"Esales"	2010
-"DNK"	"Denmark"	0	"Esales"	2010
-"EST"	"Estonia"	0	"Esales"	2010
-"FIN"	"Finland"	0	"Esales"	2010
-"FRA"	"France"	0	"Esales"	2010
-"DEU"	"Germany"	0	"Esales"	2010
-"GRC"	"Greece"	0	"Esales"	2010
-"HUN"	"Hungary"	0	"Esales"	2010
-"ISL"	"Iceland"	0	"Esales"	2010
-"IRL"	"Ireland"	0	"Esales"	2010
-"ITA"	"Italy"	0	"Esales"	2010
-"JPN"	"Japan"	0	"Esales"	2010
-"KOR"	"Korea"	0	"Esales"	2010
-"LVA"	"Latvia"	0	"Esales"	2010
-"LUX"	"Luxembourg"	0	"Esales"	2010
-"MEX"	"Mexico"	0	"Esales"	2012
-"NLD"	"Netherlands"	0	"Esales"	2010
-"NZL"	"New Zealand"	0	"Esales"	2010
-"NOR"	"Norway"	0	"Esales"	2010
-"POL"	"Poland"	0	"Esales"	2010
-"PRT"	"Portugal"	0	"Esales"	2010
-"SVK"	"Slovak Republic"	0	"Esales"	2010
-"SVN"	"Slovenia"	0	"Esales"	2010
-"ESP"	"Spain"	0	"Esales"	2010
-"SWE"	"Sweden"	0	"Esales"	2010
-"CHE"	"Switzerland"	0	"Esales"	2011
-"TUR"	"Turkey"	0	"Esales"	2010
-"GBR"	"United Kingdom"	0	"Esales"	2010
-"BRA"	"Brazil"	0	"Esales"	2010
-"COL"	"Colombia"	0	"Esales"	2012
-"LTU"	"Lithuania"	0	"Esales"	2010
-"AUS"	"Australia"	1	"SupplyChainMgmt"	2015
-"AUT"	"Austria"	1	"SupplyChainMgmt"	2016
-"BEL"	"Belgium"	1	"SupplyChainMgmt"	2016
-"CAN"	"Canada"	1	"SupplyChainMgmt"	2013
-"CZE"	"Czech Republic"	1	"SupplyChainMgmt"	2016
-"DNK"	"Denmark"	1	"SupplyChainMgmt"	2016
-"EST"	"Estonia"	1	"SupplyChainMgmt"	2016
-"FIN"	"Finland"	1	"SupplyChainMgmt"	2016
-"FRA"	"France"	1	"SupplyChainMgmt"	2016
-"DEU"	"Germany"	1	"SupplyChainMgmt"	2016
-"GRC"	"Greece"	1	"SupplyChainMgmt"	2016
-"HUN"	"Hungary"	1	"SupplyChainMgmt"	2016
-"ISL"	"Iceland"	1	"SupplyChainMgmt"	2014
-"IRL"	"Ireland"	1	"SupplyChainMgmt"	2016
-"ITA"	"Italy"	1	"SupplyChainMgmt"	2016
-"JPN"	"Japan"	1	"SupplyChainMgmt"	2015
-"KOR"	"Korea"	1	"SupplyChainMgmt"	2015
-"LVA"	"Latvia"	1	"SupplyChainMgmt"	2016
-"LUX"	"Luxembourg"	1	"SupplyChainMgmt"	2016
-"MEX"	"Mexico"	1	"SupplyChainMgmt"	2012
-"NLD"	"Netherlands"	1	"SupplyChainMgmt"	2016
-"NZL"	"New Zealand"	1	"SupplyChainMgmt"	2016
-"NOR"	"Norway"	1	"SupplyChainMgmt"	2016
-"POL"	"Poland"	1	"SupplyChainMgmt"	2016
-"PRT"	"Portugal"	1	"SupplyChainMgmt"	2016
-"SVK"	"Slovak Republic"	1	"SupplyChainMgmt"	2016
-"SVN"	"Slovenia"	1	"SupplyChainMgmt"	2016
-"ESP"	"Spain"	1	"SupplyChainMgmt"	2016
-"SWE"	"Sweden"	1	"SupplyChainMgmt"	2016
-"CHE"	"Switzerland"	1	"SupplyChainMgmt"	2015
-"TUR"	"Turkey"	1	"SupplyChainMgmt"	2012
-"GBR"	"United Kingdom"	1	"SupplyChainMgmt"	2016
-"BRA"	"Brazil"	1	"SupplyChainMgmt"	2015
-"COL"	"Colombia"	1	"SupplyChainMgmt"	2015
-"LTU"	"Lithuania"	1	"SupplyChainMgmt"	2016
-"AUS"	"Australia"	0	"SupplyChainMgmt"	2015
-"AUT"	"Austria"	0	"SupplyChainMgmt"	2010
-"BEL"	"Belgium"	0	"SupplyChainMgmt"	2010
-"CAN"	"Canada"	0	"SupplyChainMgmt"	2012
-"CZE"	"Czech Republic"	0	"SupplyChainMgmt"	2010
-"DNK"	"Denmark"	0	"SupplyChainMgmt"	2010
-"EST"	"Estonia"	0	"SupplyChainMgmt"	2010
-"FIN"	"Finland"	0	"SupplyChainMgmt"	2010
-"FRA"	"France"	0	"SupplyChainMgmt"	2010
-"DEU"	"Germany"	0	"SupplyChainMgmt"	2010
-"GRC"	"Greece"	0	"SupplyChainMgmt"	2010
-"HUN"	"Hungary"	0	"SupplyChainMgmt"	2010
-"ISL"	"Iceland"	0	"SupplyChainMgmt"	2010
-"IRL"	"Ireland"	0	"SupplyChainMgmt"	2010
-"ITA"	"Italy"	0	"SupplyChainMgmt"	2010
-"JPN"	"Japan"	0	"SupplyChainMgmt"	2010
-"KOR"	"Korea"	0	"SupplyChainMgmt"	2010
-"LVA"	"Latvia"	0	"SupplyChainMgmt"	2010
-"LUX"	"Luxembourg"	0	"SupplyChainMgmt"	2010
-"MEX"	"Mexico"	0	"SupplyChainMgmt"	2012
-"NLD"	"Netherlands"	0	"SupplyChainMgmt"	2010
-"NZL"	"New Zealand"	0	"SupplyChainMgmt"	2010
-"NOR"	"Norway"	0	"SupplyChainMgmt"	2010
-"POL"	"Poland"	0	"SupplyChainMgmt"	2010
-"PRT"	"Portugal"	0	"SupplyChainMgmt"	2010
-"SVK"	"Slovak Republic"	0	"SupplyChainMgmt"	2010
-"SVN"	"Slovenia"	0	"SupplyChainMgmt"	2010
-"ESP"	"Spain"	0	"SupplyChainMgmt"	2010
-"SWE"	"Sweden"	0	"SupplyChainMgmt"	2010
-"CHE"	"Switzerland"	0	"SupplyChainMgmt"	2010
-"TUR"	"Turkey"	0	"SupplyChainMgmt"	2010
-"GBR"	"United Kingdom"	0	"SupplyChainMgmt"	2010
-"BRA"	"Brazil"	0	"SupplyChainMgmt"	2010
-"COL"	"Colombia"	0	"SupplyChainMgmt"	2010
-"LTU"	"Lithuania"	0	"SupplyChainMgmt"	2010
-"AUS"	"Australia"	1	"BigData"	2015
-"AUT"	"Austria"	1	"BigData"	2016
-"BEL"	"Belgium"	1	"BigData"	2016
-"CAN"	"Canada"	1	"BigData"	2013
-"CZE"	"Czech Republic"	1	"BigData"	2016
-"DNK"	"Denmark"	1	"BigData"	2016
-"EST"	"Estonia"	1	"BigData"	2016
-"FIN"	"Finland"	1	"BigData"	2016
-"FRA"	"France"	1	"BigData"	2016
-"DEU"	"Germany"	1	"BigData"	2016
-"GRC"	"Greece"	1	"BigData"	2016
-"HUN"	"Hungary"	1	"BigData"	2016
-"ISL"	"Iceland"	1	"BigData"	2014
-"IRL"	"Ireland"	1	"BigData"	2016
-"ITA"	"Italy"	1	"BigData"	2016
-"JPN"	"Japan"	1	"BigData"	2015
-"KOR"	"Korea"	1	"BigData"	2015
-"LVA"	"Latvia"	1	"BigData"	2016
-"LUX"	"Luxembourg"	1	"BigData"	2016
-"MEX"	"Mexico"	1	"BigData"	2012
-"NLD"	"Netherlands"	1	"BigData"	2016
-"NZL"	"New Zealand"	1	"BigData"	2016
-"NOR"	"Norway"	1	"BigData"	2016
-"POL"	"Poland"	1	"BigData"	2016
-"PRT"	"Portugal"	1	"BigData"	2016
-"SVK"	"Slovak Republic"	1	"BigData"	2016
-"SVN"	"Slovenia"	1	"BigData"	2016
-"ESP"	"Spain"	1	"BigData"	2016
-"SWE"	"Sweden"	1	"BigData"	2016
-"CHE"	"Switzerland"	1	"BigData"	2015
-"TUR"	"Turkey"	1	"BigData"	2016
-"GBR"	"United Kingdom"	1	"BigData"	2016
-"BRA"	"Brazil"	1	"BigData"	2015
-"COL"	"Colombia"	1	"BigData"	2015
-"LTU"	"Lithuania"	1	"BigData"	2016
-"AUS"	"Australia"	0	"BigData"	2015
-"AUT"	"Austria"	0	"BigData"	2010
-"BEL"	"Belgium"	0	"BigData"	2010
-"CAN"	"Canada"	0	"BigData"	2012
-"CZE"	"Czech Republic"	0	"BigData"	2010
-"DNK"	"Denmark"	0	"BigData"	2010
-"EST"	"Estonia"	0	"BigData"	2010
-"FIN"	"Finland"	0	"BigData"	2010
-"FRA"	"France"	0	"BigData"	2010
-"DEU"	"Germany"	0	"BigData"	2010
-"GRC"	"Greece"	0	"BigData"	2010
-"HUN"	"Hungary"	0	"BigData"	2010
-"ISL"	"Iceland"	0	"BigData"	2010
-"IRL"	"Ireland"	0	"BigData"	2010
-"ITA"	"Italy"	0	"BigData"	2010
-"JPN"	"Japan"	0	"BigData"	2010
-"KOR"	"Korea"	0	"BigData"	2010
-"LVA"	"Latvia"	0	"BigData"	2010
-"LUX"	"Luxembourg"	0	"BigData"	2010
-"MEX"	"Mexico"	0	"BigData"	2012
-"NLD"	"Netherlands"	0	"BigData"	2010
-"NZL"	"New Zealand"	0	"BigData"	2010
-"NOR"	"Norway"	0	"BigData"	2010
-"POL"	"Poland"	0	"BigData"	2010
-"PRT"	"Portugal"	0	"BigData"	2010
-"SVK"	"Slovak Republic"	0	"BigData"	2010
-"SVN"	"Slovenia"	0	"BigData"	2010
-"ESP"	"Spain"	0	"BigData"	2010
-"SWE"	"Sweden"	0	"BigData"	2010
-"CHE"	"Switzerland"	0	"BigData"	2010
-"TUR"	"Turkey"	0	"BigData"	2010
-"GBR"	"United Kingdom"	0	"BigData"	2010
-"BRA"	"Brazil"	0	"BigData"	2010
-"COL"	"Colombia"	0	"BigData"	2010
-"LTU"	"Lithuania"	0	"BigData"	2010
+"AUS"	"Australia"	1	"Cloud Computing"	2015
+"AUT"	"Austria"	1	"Cloud Computing"	2016
+"BEL"	"Belgium"	1	"Cloud Computing"	2016
+"CAN"	"Canada"	1	"Cloud Computing"	2012
+"CZE"	"Czech Republic"	1	"Cloud Computing"	2016
+"DNK"	"Denmark"	1	"Cloud Computing"	2016
+"EST"	"Estonia"	1	"Cloud Computing"	2016
+"FIN"	"Finland"	1	"Cloud Computing"	2016
+"FRA"	"France"	1	"Cloud Computing"	2016
+"DEU"	"Germany"	1	"Cloud Computing"	2016
+"GRC"	"Greece"	1	"Cloud Computing"	2016
+"HUN"	"Hungary"	1	"Cloud Computing"	2016
+"ISL"	"Iceland"	1	"Cloud Computing"	2014
+"IRL"	"Ireland"	1	"Cloud Computing"	2016
+"ITA"	"Italy"	1	"Cloud Computing"	2016
+"JPN"	"Japan"	1	"Cloud Computing"	2015
+"KOR"	"Korea"	1	"Cloud Computing"	2015
+"LVA"	"Latvia"	1	"Cloud Computing"	2016
+"LUX"	"Luxembourg"	1	"Cloud Computing"	2016
+"MEX"	"Mexico"	1	"Cloud Computing"	2010
+"NLD"	"Netherlands"	1	"Cloud Computing"	2016
+"NZL"	"New Zealand"	1	"Cloud Computing"	2016
+"NOR"	"Norway"	1	"Cloud Computing"	2016
+"POL"	"Poland"	1	"Cloud Computing"	2016
+"PRT"	"Portugal"	1	"Cloud Computing"	2016
+"SVK"	"Slovak Republic"	1	"Cloud Computing"	2016
+"SVN"	"Slovenia"	1	"Cloud Computing"	2016
+"ESP"	"Spain"	1	"Cloud Computing"	2016
+"SWE"	"Sweden"	1	"Cloud Computing"	2016
+"CHE"	"Switzerland"	1	"Cloud Computing"	2015
+"TUR"	"Turkey"	1	"Cloud Computing"	2016
+"GBR"	"United Kingdom"	1	"Cloud Computing"	2016
+"BRA"	"Brazil"	1	"Cloud Computing"	2015
+"COL"	"Colombia"	1	"Cloud Computing"	2015
+"LTU"	"Lithuania"	1	"Cloud Computing"	2016
+"AUS"	"Australia"	0	"Cloud Computing"	2010
+"AUT"	"Austria"	0	"Cloud Computing"	2014
+"BEL"	"Belgium"	0	"Cloud Computing"	2014
+"CAN"	"Canada"	0	"Cloud Computing"	2012
+"CZE"	"Czech Republic"	0	"Cloud Computing"	2014
+"DNK"	"Denmark"	0	"Cloud Computing"	2014
+"EST"	"Estonia"	0	"Cloud Computing"	2014
+"FIN"	"Finland"	0	"Cloud Computing"	2014
+"FRA"	"France"	0	"Cloud Computing"	2014
+"DEU"	"Germany"	0	"Cloud Computing"	2014
+"GRC"	"Greece"	0	"Cloud Computing"	2014
+"HUN"	"Hungary"	0	"Cloud Computing"	2014
+"ISL"	"Iceland"	0	"Cloud Computing"	2014
+"IRL"	"Ireland"	0	"Cloud Computing"	2014
+"ITA"	"Italy"	0	"Cloud Computing"	2014
+"JPN"	"Japan"	0	"Cloud Computing"	2010
+"KOR"	"Korea"	0	"Cloud Computing"	2012
+"LVA"	"Latvia"	0	"Cloud Computing"	2014
+"LUX"	"Luxembourg"	0	"Cloud Computing"	2014
+"MEX"	"Mexico"	0	"Cloud Computing"	2012
+"NLD"	"Netherlands"	0	"Cloud Computing"	2014
+"NZL"	"New Zealand"	0	"Cloud Computing"	2014
+"NOR"	"Norway"	0	"Cloud Computing"	2014
+"POL"	"Poland"	0	"Cloud Computing"	2014
+"PRT"	"Portugal"	0	"Cloud Computing"	2014
+"SVK"	"Slovak Republic"	0	"Cloud Computing"	2014
+"SVN"	"Slovenia"	0	"Cloud Computing"	2014
+"ESP"	"Spain"	0	"Cloud Computing"	2014
+"SWE"	"Sweden"	0	"Cloud Computing"	2014
+"CHE"	"Switzerland"	0	"Cloud Computing"	2010
+"TUR"	"Turkey"	0	"Cloud Computing"	2014
+"GBR"	"United Kingdom"	0	"Cloud Computing"	2014
+"BRA"	"Brazil"	0	"Cloud Computing"	2014
+"COL"	"Colombia"	0	"Cloud Computing"	2014
+"LTU"	"Lithuania"	0	"Cloud Computing"	2014
+"AUS"	"Australia"	1	"E-sales"	2015
+"AUT"	"Austria"	1	"E-sales"	2015
+"BEL"	"Belgium"	1	"E-sales"	2015
+"CAN"	"Canada"	1	"E-sales"	2013
+"CZE"	"Czech Republic"	1	"E-sales"	2015
+"DNK"	"Denmark"	1	"E-sales"	2015
+"EST"	"Estonia"	1	"E-sales"	2015
+"FIN"	"Finland"	1	"E-sales"	2015
+"FRA"	"France"	1	"E-sales"	2015
+"DEU"	"Germany"	1	"E-sales"	2015
+"GRC"	"Greece"	1	"E-sales"	2015
+"HUN"	"Hungary"	1	"E-sales"	2015
+"ISL"	"Iceland"	1	"E-sales"	2014
+"IRL"	"Ireland"	1	"E-sales"	2015
+"ITA"	"Italy"	1	"E-sales"	2015
+"JPN"	"Japan"	1	"E-sales"	2015
+"KOR"	"Korea"	1	"E-sales"	2015
+"LVA"	"Latvia"	1	"E-sales"	2015
+"LUX"	"Luxembourg"	1	"E-sales"	2015
+"MEX"	"Mexico"	1	"E-sales"	2012
+"NLD"	"Netherlands"	1	"E-sales"	2015
+"NZL"	"New Zealand"	1	"E-sales"	2016
+"NOR"	"Norway"	1	"E-sales"	2016
+"POL"	"Poland"	1	"E-sales"	2015
+"PRT"	"Portugal"	1	"E-sales"	2015
+"SVK"	"Slovak Republic"	1	"E-sales"	2015
+"SVN"	"Slovenia"	1	"E-sales"	2015
+"ESP"	"Spain"	1	"E-sales"	2015
+"SWE"	"Sweden"	1	"E-sales"	2015
+"CHE"	"Switzerland"	1	"E-sales"	2015
+"TUR"	"Turkey"	1	"E-sales"	2016
+"GBR"	"United Kingdom"	1	"E-sales"	2016
+"BRA"	"Brazil"	1	"E-sales"	2015
+"COL"	"Colombia"	1	"E-sales"	2015
+"LTU"	"Lithuania"	1	"E-sales"	2016
+"AUS"	"Australia"	0	"E-sales"	2015
+"AUT"	"Austria"	0	"E-sales"	2010
+"BEL"	"Belgium"	0	"E-sales"	2010
+"CAN"	"Canada"	0	"E-sales"	2012
+"CZE"	"Czech Republic"	0	"E-sales"	2010
+"DNK"	"Denmark"	0	"E-sales"	2010
+"EST"	"Estonia"	0	"E-sales"	2010
+"FIN"	"Finland"	0	"E-sales"	2010
+"FRA"	"France"	0	"E-sales"	2010
+"DEU"	"Germany"	0	"E-sales"	2010
+"GRC"	"Greece"	0	"E-sales"	2010
+"HUN"	"Hungary"	0	"E-sales"	2010
+"ISL"	"Iceland"	0	"E-sales"	2010
+"IRL"	"Ireland"	0	"E-sales"	2010
+"ITA"	"Italy"	0	"E-sales"	2010
+"JPN"	"Japan"	0	"E-sales"	2010
+"KOR"	"Korea"	0	"E-sales"	2010
+"LVA"	"Latvia"	0	"E-sales"	2010
+"LUX"	"Luxembourg"	0	"E-sales"	2010
+"MEX"	"Mexico"	0	"E-sales"	2012
+"NLD"	"Netherlands"	0	"E-sales"	2010
+"NZL"	"New Zealand"	0	"E-sales"	2010
+"NOR"	"Norway"	0	"E-sales"	2010
+"POL"	"Poland"	0	"E-sales"	2010
+"PRT"	"Portugal"	0	"E-sales"	2010
+"SVK"	"Slovak Republic"	0	"E-sales"	2010
+"SVN"	"Slovenia"	0	"E-sales"	2010
+"ESP"	"Spain"	0	"E-sales"	2010
+"SWE"	"Sweden"	0	"E-sales"	2010
+"CHE"	"Switzerland"	0	"E-sales"	2011
+"TUR"	"Turkey"	0	"E-sales"	2010
+"GBR"	"United Kingdom"	0	"E-sales"	2010
+"BRA"	"Brazil"	0	"E-sales"	2010
+"COL"	"Colombia"	0	"E-sales"	2012
+"LTU"	"Lithuania"	0	"E-sales"	2010
+"AUS"	"Australia"	1	"Supply chain mngt. (ADE)"	2015
+"AUT"	"Austria"	1	"Supply chain mngt. (ADE)"	2016
+"BEL"	"Belgium"	1	"Supply chain mngt. (ADE)"	2016
+"CAN"	"Canada"	1	"Supply chain mngt. (ADE)"	2013
+"CZE"	"Czech Republic"	1	"Supply chain mngt. (ADE)"	2016
+"DNK"	"Denmark"	1	"Supply chain mngt. (ADE)"	2016
+"EST"	"Estonia"	1	"Supply chain mngt. (ADE)"	2016
+"FIN"	"Finland"	1	"Supply chain mngt. (ADE)"	2016
+"FRA"	"France"	1	"Supply chain mngt. (ADE)"	2016
+"DEU"	"Germany"	1	"Supply chain mngt. (ADE)"	2016
+"GRC"	"Greece"	1	"Supply chain mngt. (ADE)"	2016
+"HUN"	"Hungary"	1	"Supply chain mngt. (ADE)"	2016
+"ISL"	"Iceland"	1	"Supply chain mngt. (ADE)"	2014
+"IRL"	"Ireland"	1	"Supply chain mngt. (ADE)"	2016
+"ITA"	"Italy"	1	"Supply chain mngt. (ADE)"	2016
+"JPN"	"Japan"	1	"Supply chain mngt. (ADE)"	2015
+"KOR"	"Korea"	1	"Supply chain mngt. (ADE)"	2015
+"LVA"	"Latvia"	1	"Supply chain mngt. (ADE)"	2016
+"LUX"	"Luxembourg"	1	"Supply chain mngt. (ADE)"	2016
+"MEX"	"Mexico"	1	"Supply chain mngt. (ADE)"	2012
+"NLD"	"Netherlands"	1	"Supply chain mngt. (ADE)"	2016
+"NZL"	"New Zealand"	1	"Supply chain mngt. (ADE)"	2016
+"NOR"	"Norway"	1	"Supply chain mngt. (ADE)"	2016
+"POL"	"Poland"	1	"Supply chain mngt. (ADE)"	2016
+"PRT"	"Portugal"	1	"Supply chain mngt. (ADE)"	2016
+"SVK"	"Slovak Republic"	1	"Supply chain mngt. (ADE)"	2016
+"SVN"	"Slovenia"	1	"Supply chain mngt. (ADE)"	2016
+"ESP"	"Spain"	1	"Supply chain mngt. (ADE)"	2016
+"SWE"	"Sweden"	1	"Supply chain mngt. (ADE)"	2016
+"CHE"	"Switzerland"	1	"Supply chain mngt. (ADE)"	2015
+"TUR"	"Turkey"	1	"Supply chain mngt. (ADE)"	2012
+"GBR"	"United Kingdom"	1	"Supply chain mngt. (ADE)"	2016
+"BRA"	"Brazil"	1	"Supply chain mngt. (ADE)"	2015
+"COL"	"Colombia"	1	"Supply chain mngt. (ADE)"	2015
+"LTU"	"Lithuania"	1	"Supply chain mngt. (ADE)"	2016
+"AUS"	"Australia"	0	"Supply chain mngt. (ADE)"	2015
+"AUT"	"Austria"	0	"Supply chain mngt. (ADE)"	2010
+"BEL"	"Belgium"	0	"Supply chain mngt. (ADE)"	2010
+"CAN"	"Canada"	0	"Supply chain mngt. (ADE)"	2012
+"CZE"	"Czech Republic"	0	"Supply chain mngt. (ADE)"	2010
+"DNK"	"Denmark"	0	"Supply chain mngt. (ADE)"	2010
+"EST"	"Estonia"	0	"Supply chain mngt. (ADE)"	2010
+"FIN"	"Finland"	0	"Supply chain mngt. (ADE)"	2010
+"FRA"	"France"	0	"Supply chain mngt. (ADE)"	2010
+"DEU"	"Germany"	0	"Supply chain mngt. (ADE)"	2010
+"GRC"	"Greece"	0	"Supply chain mngt. (ADE)"	2010
+"HUN"	"Hungary"	0	"Supply chain mngt. (ADE)"	2010
+"ISL"	"Iceland"	0	"Supply chain mngt. (ADE)"	2010
+"IRL"	"Ireland"	0	"Supply chain mngt. (ADE)"	2010
+"ITA"	"Italy"	0	"Supply chain mngt. (ADE)"	2010
+"JPN"	"Japan"	0	"Supply chain mngt. (ADE)"	2010
+"KOR"	"Korea"	0	"Supply chain mngt. (ADE)"	2010
+"LVA"	"Latvia"	0	"Supply chain mngt. (ADE)"	2010
+"LUX"	"Luxembourg"	0	"Supply chain mngt. (ADE)"	2010
+"MEX"	"Mexico"	0	"Supply chain mngt. (ADE)"	2012
+"NLD"	"Netherlands"	0	"Supply chain mngt. (ADE)"	2010
+"NZL"	"New Zealand"	0	"Supply chain mngt. (ADE)"	2010
+"NOR"	"Norway"	0	"Supply chain mngt. (ADE)"	2010
+"POL"	"Poland"	0	"Supply chain mngt. (ADE)"	2010
+"PRT"	"Portugal"	0	"Supply chain mngt. (ADE)"	2010
+"SVK"	"Slovak Republic"	0	"Supply chain mngt. (ADE)"	2010
+"SVN"	"Slovenia"	0	"Supply chain mngt. (ADE)"	2010
+"ESP"	"Spain"	0	"Supply chain mngt. (ADE)"	2010
+"SWE"	"Sweden"	0	"Supply chain mngt. (ADE)"	2010
+"CHE"	"Switzerland"	0	"Supply chain mngt. (ADE)"	2010
+"TUR"	"Turkey"	0	"Supply chain mngt. (ADE)"	2010
+"GBR"	"United Kingdom"	0	"Supply chain mngt. (ADE)"	2010
+"BRA"	"Brazil"	0	"Supply chain mngt. (ADE)"	2010
+"COL"	"Colombia"	0	"Supply chain mngt. (ADE)"	2010
+"LTU"	"Lithuania"	0	"Supply chain mngt. (ADE)"	2010
+"AUS"	"Australia"	1	"Big Data"	2015
+"AUT"	"Austria"	1	"Big Data"	2016
+"BEL"	"Belgium"	1	"Big Data"	2016
+"CAN"	"Canada"	1	"Big Data"	2013
+"CZE"	"Czech Republic"	1	"Big Data"	2016
+"DNK"	"Denmark"	1	"Big Data"	2016
+"EST"	"Estonia"	1	"Big Data"	2016
+"FIN"	"Finland"	1	"Big Data"	2016
+"FRA"	"France"	1	"Big Data"	2016
+"DEU"	"Germany"	1	"Big Data"	2016
+"GRC"	"Greece"	1	"Big Data"	2016
+"HUN"	"Hungary"	1	"Big Data"	2016
+"ISL"	"Iceland"	1	"Big Data"	2014
+"IRL"	"Ireland"	1	"Big Data"	2016
+"ITA"	"Italy"	1	"Big Data"	2016
+"JPN"	"Japan"	1	"Big Data"	2015
+"KOR"	"Korea"	1	"Big Data"	2015
+"LVA"	"Latvia"	1	"Big Data"	2016
+"LUX"	"Luxembourg"	1	"Big Data"	2016
+"MEX"	"Mexico"	1	"Big Data"	2012
+"NLD"	"Netherlands"	1	"Big Data"	2016
+"NZL"	"New Zealand"	1	"Big Data"	2016
+"NOR"	"Norway"	1	"Big Data"	2016
+"POL"	"Poland"	1	"Big Data"	2016
+"PRT"	"Portugal"	1	"Big Data"	2016
+"SVK"	"Slovak Republic"	1	"Big Data"	2016
+"SVN"	"Slovenia"	1	"Big Data"	2016
+"ESP"	"Spain"	1	"Big Data"	2016
+"SWE"	"Sweden"	1	"Big Data"	2016
+"CHE"	"Switzerland"	1	"Big Data"	2015
+"TUR"	"Turkey"	1	"Big Data"	2016
+"GBR"	"United Kingdom"	1	"Big Data"	2016
+"BRA"	"Brazil"	1	"Big Data"	2015
+"COL"	"Colombia"	1	"Big Data"	2015
+"LTU"	"Lithuania"	1	"Big Data"	2016
+"AUS"	"Australia"	0	"Big Data"	2015
+"AUT"	"Austria"	0	"Big Data"	2010
+"BEL"	"Belgium"	0	"Big Data"	2010
+"CAN"	"Canada"	0	"Big Data"	2012
+"CZE"	"Czech Republic"	0	"Big Data"	2010
+"DNK"	"Denmark"	0	"Big Data"	2010
+"EST"	"Estonia"	0	"Big Data"	2010
+"FIN"	"Finland"	0	"Big Data"	2010
+"FRA"	"France"	0	"Big Data"	2010
+"DEU"	"Germany"	0	"Big Data"	2010
+"GRC"	"Greece"	0	"Big Data"	2010
+"HUN"	"Hungary"	0	"Big Data"	2010
+"ISL"	"Iceland"	0	"Big Data"	2010
+"IRL"	"Ireland"	0	"Big Data"	2010
+"ITA"	"Italy"	0	"Big Data"	2010
+"JPN"	"Japan"	0	"Big Data"	2010
+"KOR"	"Korea"	0	"Big Data"	2010
+"LVA"	"Latvia"	0	"Big Data"	2010
+"LUX"	"Luxembourg"	0	"Big Data"	2010
+"MEX"	"Mexico"	0	"Big Data"	2012
+"NLD"	"Netherlands"	0	"Big Data"	2010
+"NZL"	"New Zealand"	0	"Big Data"	2010
+"NOR"	"Norway"	0	"Big Data"	2010
+"POL"	"Poland"	0	"Big Data"	2010
+"PRT"	"Portugal"	0	"Big Data"	2010
+"SVK"	"Slovak Republic"	0	"Big Data"	2010
+"SVN"	"Slovenia"	0	"Big Data"	2010
+"ESP"	"Spain"	0	"Big Data"	2010
+"SWE"	"Sweden"	0	"Big Data"	2010
+"CHE"	"Switzerland"	0	"Big Data"	2010
+"TUR"	"Turkey"	0	"Big Data"	2010
+"GBR"	"United Kingdom"	0	"Big Data"	2010
+"BRA"	"Brazil"	0	"Big Data"	2010
+"COL"	"Colombia"	0	"Big Data"	2010
+"LTU"	"Lithuania"	0	"Big Data"	2010
 "AUS"	"Australia"	1	"RFID"	2015
 "AUT"	"Austria"	1	"RFID"	2016
 "BEL"	"Belgium"	1	"RFID"	2016
