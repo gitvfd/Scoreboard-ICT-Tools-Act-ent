@@ -25,9 +25,10 @@ function chartDrawing(ISO){
       .attr("y", margin.top)
       .attr("dy", "0.32em")
       .attr("fill", "#000")
-      .attr("font-weight", 600)
+      .attr("font-weight", 300)
       .attr("text-anchor", "end")
-      .text("%");;
+      .text("% of enterprises (10+ people)")
+        .attr('transform', 'rotate(-90 -15 35)');;;
 
 
  	chart.selectAll("circle")
