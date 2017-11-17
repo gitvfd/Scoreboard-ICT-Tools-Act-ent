@@ -58,10 +58,10 @@
 
 .selFilter{
 
-  /**float:left;**/
+  float:left;
   text-align: center;
   font-family: Helvetica Neue;
-  color:#666666;
+  color:#E73741;
   text-shadow: 0 0px 0 #000000;
   font-size: 14px;
   height:32px;
