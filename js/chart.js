@@ -6,7 +6,6 @@ function chartDrawing(ISO){
  	var couValue=totData.filter(function(d){return (d.Period=="1") && (d.value!=""); });
  	var couYear=totYear.filter(function(d){return d.Period=="1" ; });
        
-console.log(totYear)
 
 
 
@@ -16,7 +15,7 @@ console.log(totYear)
       .call(d3.axisBottom(x))
     .selectAll(".tick text")
       .call(wrap, x.bandwidth());
-      
+
   chart.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate( "+0 +"," + 0+ ")")

@@ -44,7 +44,7 @@
 
 .y.axis line {
   stroke: #ffffff;
-  stroke-opacity: 0.4;
+  stroke-opacity: 0.8;
   shape-rendering: crispEdges;
 }
 
